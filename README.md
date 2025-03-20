@@ -12,4 +12,4 @@ This Flutter application fetches and displays data from a public API using HTTP 
 ## Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/flutter_api_app.git
+   git clone https://github.com/bikash350/flutter_api_app.git
